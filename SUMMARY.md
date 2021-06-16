@@ -16,7 +16,7 @@
 ---
 
 * [Website](https://karot.xyz)
-* [Privacy Policy](https://karot.xyz/privacy.html)
+* [Privacy policy](https://karot.xyz/privacy.html)
 * [Invite](https://invite.karot.xyz)
 * [Support server](https://discord.com/invite/PSC4CgkuMS)
 
