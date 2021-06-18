@@ -10,6 +10,7 @@
 ## Advanced
 
 * [Embed generation](advanced/embeds.md)
+* [Soundboard](advanced/soundboard.md)
 
 ## Links
 
